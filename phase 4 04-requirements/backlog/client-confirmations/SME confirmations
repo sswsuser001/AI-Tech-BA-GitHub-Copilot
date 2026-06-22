@@ -1,0 +1,20 @@
+1. Attachment type whitelist still requires SME confirmation
+Ans: PDF, DOC and Excel
+2. Notification behavior on proposal create is unclear
+Ans: Deferred
+3. Concurrency/locking behavior is not required per SME and should be confirmed if needed
+Ans: No - this phase 
+4. None beyond standard list rendering behaviour
+Ans: Pagination inherited from existing
+5. Export performance for large result sets is unknown
+Ans: 25 MB limit
+6. Exact transition confirmation rules require SME validation
+Ans: Refer the reference located in the folder by the name 
+7. Allowed MIME types and server-side validation rules need confirmation from SME
+Ans: pdf, docx/doc excel
+8. Partial failure behavior during bulk operations is not fully defined and needs SME input
+Ans: Deferred
+9. Export performance for large result sets is unknown
+Ans: 25 Mb limit
+10. Technical conversion mapping to Invoice/Estimate fields is deferred and needs a follow-up story
+Ans: Deferred
