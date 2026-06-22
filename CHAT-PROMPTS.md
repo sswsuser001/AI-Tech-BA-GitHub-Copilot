@@ -45,5 +45,8 @@ create a seprate file wuth version 2.0 and cleary add a Review summary in the en
 
 
 ## connect JIRA and ask to create user stories
+
+connect https://1techbajun26.atlassian.net/ and fetch the Proposal Management System  (PMS) Project 
+
 Create User Stories in the folder approved with naming PMS-STORY-001 (sequence) 
 as a seprate file for each user story. 
